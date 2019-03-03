@@ -1,5 +1,9 @@
 # README
 
+devise機能を導入してRailsチュートリアルで作成したTwitterクローンにFacebookログインをできるようにして
+インスタクローンのようなサイトを作成しようとした結果
+Facebookログインとuser.idが一致せず断念
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
